@@ -1,1 +1,1 @@
-# Javascript-101
+Project Euler from Euler.net
