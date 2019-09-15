@@ -1,1 +1,1 @@
-Project Euler from Euler.net
+Euler from Euler.net
